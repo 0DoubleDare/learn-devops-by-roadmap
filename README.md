@@ -1,4 +1,4 @@
 # Learn DevOps
 
 ## Other translations
-## [RU](README.ru) 
+[RU](README.ru.md) 
