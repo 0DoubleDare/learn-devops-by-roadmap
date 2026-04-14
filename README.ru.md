@@ -3,4 +3,7 @@
 
 [Глава 1 - Git](./Material/ru/git/01-git-chapters.md)      
 [Глава 2 - Linux](./Material/ru/linux/10-linux-chapters.md)  
-[Глава 2.5 - Сети](./Material/ru/linux/networks/1.5-0_networks)
+	[Глава 2.5 - Сети](2.5-0_networks.md)
+
+> [!WARNING]
+> Стандартная разметка .md в GitHub может некорректно отображать метериал так как он ведеться в программе для заметок [Obsidian](https://obsidian.md/)
