@@ -11,14 +11,12 @@
             "id": "559017c96c40547a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Material/ru/linux/11-linux-file_systems_and_disks.md",
-                "mode": "source",
-                "source": false
+                "file": "Material/multimedia/ping_example.png"
               },
-              "icon": "lucide-file",
-              "title": "11-linux-file_systems_and_disks"
+              "icon": "lucide-image",
+              "title": "ping_example"
             }
           }
         ]
@@ -183,18 +181,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "559017c96c40547a",
+  "active": "0a35f84e249115f7",
   "lastOpenFiles": [
-    "Material/ru/linux/12-linux-common-commands.md",
-    "Material/ru/linux/11-linux-file_systems_and_disks.md",
-    "Material/ru/linux/10-linux-chapters.md",
-    "Material/ru/linux/14-linux-process.md",
-    "Material/ru/linux/13-linux-bash.md",
-    "Material/ru/linux/15-linux-resource_monitoring.md",
+    "Material/multimedia/socket_statistic_example.png",
+    "Material/multimedia/traceroute_example.png",
+    "Material/ru/git/01-git-chapters.md",
+    "Material/ru/git/02-git-commands.md",
     "Material/ru/git/03-git-introduction.md",
     "Material/ru/linux/networks/2.5-0_networks.md",
-    "Material/ru/git/02-git-commands.md",
-    "Material/ru/git/01-git-chapters.md",
+    "Material/ru/linux/13-linux-bash.md",
+    "Material/ru/linux/12-linux-common-commands.md",
+    "Material/ru/linux/15-linux-resource_monitoring.md",
+    "Material/ru/linux/14-linux-process.md",
+    "Material/ru/linux/11-linux-file_systems_and_disks.md",
+    "Material/ru/linux/10-linux-chapters.md",
+    "Untitled 1.base",
+    "Untitled.base",
+    "Untitled.md",
+    "Untitled",
     "README.ru.md"
   ]
 }
