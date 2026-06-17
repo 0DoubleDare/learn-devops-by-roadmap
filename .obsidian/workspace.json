@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/ru/linux/12-linux-common-commands.md",
+                "file": "Material/ru/linux/13-linux-bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-linux-common-commands"
+              "title": "13-linux-bash"
             }
           },
           {
@@ -27,15 +27,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Material/ru/Блокнот.md",
+                "file": "Material/ru/linux/13-linux-bash.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Блокнот"
+              "title": "13-linux-bash"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -92,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 323.5
+    "width": 314.5
   },
   "right": {
     "id": "b1ecbb5148860a6a",
@@ -197,28 +198,29 @@
       "bases:Create new base": false
     }
   },
-  "active": "559017c96c40547a",
+  "active": "038ac4d8a51e1a35",
   "lastOpenFiles": [
-    "Material/ru/linux/10-linux-chapters.md",
+    "Material/ru/linux/12-linux-common-commands.md",
     "Material/ru/linux/11-linux-file_systems_and_disks.md",
-    "Material/ru/git/01-git-chapters.md",
+    "н.md",
+    "Material/ru/linux/13-linux-bash.md",
+    "Material/ru/linux/14-linux-process.md",
+    "Material/ru/linux/15-linux-resource_monitoring.md",
+    "Material/ru/ci_cd/01-ci_cd_chapters.md",
     "Material/ru/git/02-git-commands.md",
+    "Material/ru/git/01-git-chapters.md",
+    "Material/ru/linux/10-linux-chapters.md",
     "Material/ru/git/03-git-introduction.md",
     "Material/multimedia/create_ssh_example.png",
     "Pasted image 20260615212018.png",
     "Material/ru/ci_cd/04-pipelines.md",
     "Material/ru/ci_cd/03-cd.md",
-    "Material/ru/linux/12-linux-common-commands.md",
     "Material/ru/ci_cd/02-ci.md",
-    "Material/ru/ci_cd/01-ci_cd_chapters.md",
     "README.ru.md",
     "README.md",
     "Material/ru/ci_cd",
-    "Material/ru/linux/15-linux-resource_monitoring.md",
     "Material/ru/linux/networks/2.5-0_networks.md",
-    "Material/ru/linux/13-linux-bash.md",
     "Material/ru/Блокнот.md",
-    "Material/ru/linux/14-linux-process.md",
     "Material/multimedia/ping_example.png",
     "Material/multimedia/socket_statistic_example.png",
     "Material/multimedia/traceroute_example.png",

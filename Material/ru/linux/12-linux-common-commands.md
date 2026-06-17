@@ -1,15 +1,15 @@
 # Команды
 Список часто используемых команд в Linux
 1. [[12-linux-common-commands#Навигация по файловой системе и по содержимому в файлах|Навигация по файлам]]
-	1. [[12-linux-common-commands#`cd <путь к директории>`|cd]]
-	2. [[12-linux-common-commands#`mkdir <имя директории>`|mkdir и rmdir]]
-	3. [[12-linux-common-commands#`find`|find]]
+	1. [[12-linux-common-commands#`cd <путь к директории>`|cd - навигация по директориям]]
+	2. [[12-linux-common-commands#`mkdir <имя директории>`|mkdir и rmdir - операции над директориями]]
+	3. [[12-linux-common-commands#`find`|find - поиск файлов]]
 	4. [[12-linux-common-commands#`grep`|grep]]
 	5. [[12-linux-common-commands#`touch`|touch]]
 	6. [[12-linux-common-commands#`sort`|sort]]
 2. [[12-linux-common-commands#Процессы|Процессы]]
-	1. [[12-linux-common-commands#`pgrep <имя запущенной программы>`|pgrep]]
-	2. [[12-linux-common-commands#`ps`|ps]]
+	1. [[12-linux-common-commands#`pgrep <имя запущенной программы>`|pgrep - поиск процесса по имени]]
+	2. [[12-linux-common-commands#`ps`|ps - снимок процессов]]
 3. [[12-linux-common-commands#Мониторинг|Мониторинг]]
 	1. [[12-linux-common-commands#`top`|top]]
 4. [[12-linux-common-commands#Сети|Работа с сетью]]
@@ -91,7 +91,7 @@ ping - простейшная утилита для работы с адреса
 
 Разберем каждый столбец после команды `ss -tulpn`
 ![[socket_statistic_example.png]]
-**Netid** - показывает какой протокол передачи данных используется сокетом. Чаще всего наc интересует **tcp** и / или **udp**, но также существуют и другие - **MPTCP**, **SCTP**, **DCCP** и др.
+**Netid** - показывает какой протокол передачи данных используется сокетом. Чаще всего наc интересует **tcp** и / или **udp**, но также существуют и другие - **MPTCP**, **SCTP**, **DCCP** и т.д.
 **State** - текущее состояние сокета
 **Recv-Q** - количество байт которые были получены, но ещё не обработаны 
 **Send-Q** - количество байт которые отправлены, но не получили подтверждение
@@ -112,7 +112,7 @@ ping - простейшная утилита для работы с адреса
 
 **dig** (Domain Information Groper) 
 
-### `ip`
+### `ip <аргуменнт>`
 
 ### `traceroute`
 
